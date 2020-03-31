@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="I miss the outdoors"/>
+    <HelloWorld msg="Working from home is pretty sweet"/>
   </div>
 </template>
 
